@@ -1,3 +1,5 @@
+# Notice: Deze repository is van mijn vorige opleiding!
+
 # Robotarm
 
 Lees de instructies op de wiki pagina hoe de robotarm bibliotheek werkt. Vervolgens ga je proberen de onderstaande oefeningen te maken.
